@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneANDSIMType</string>
+    <string name="phone_type">Phone Type</string>
+</resources>
